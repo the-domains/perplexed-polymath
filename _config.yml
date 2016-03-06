@@ -1,0 +1,28 @@
+name: Perplexed Polymath
+favicon: null
+layout_spectrum: 0.4809452067129314
+typography_spectrum: 0.327084707794711
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7233852006029338
+  lightness: 0.29356788913719356
+  saturation: 0.49380443478003144
+  rhythmicContrast: 0.10054558631964028
+purpose: []
